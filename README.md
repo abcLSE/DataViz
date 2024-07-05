@@ -1,0 +1,1 @@
+The file in this repository is a HTML file which details the work that was done on a project based on visualising Airbnb Prices in New York City. The file is an easy to follow notebook with all relevant comments. Do read!
